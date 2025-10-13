@@ -1,0 +1,9 @@
+{
+	"name": "dfarslan-azureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d8a7c21-27d8-4a04-b607-6de3ff45d7c1",
+		"tenantId": "656f11bc-6d00-40a6-911b-ffda25485012"
+	}
+}
